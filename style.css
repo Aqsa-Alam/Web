@@ -36,26 +36,3 @@
   body{
     font-family: 'Times New Roman', Times, serif;
   }
-  .nav-link::after {
-    content: '';
-    display: block;
-    position: absolute;
-    right: -10px;
-    top: 50%;
-    transform: translateY(-50%);
-    border-top: 8px solid transparent;
-    border-bottom: 8px solid transparent;
-    border-left: 8px solid #fff;
-  }
-  .nav-link::after {
-    content: '';
-    display: block;
-    position: absolute;
-    right: -10px;
-    top: 50%;
-    transform: translateY(-50%);
-    border-top: 10px solid transparent;
-    border-bottom: 10px solid transparent;
-    border-left: 10px solid #fff;
-  }
-  
