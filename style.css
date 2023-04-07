@@ -2,7 +2,7 @@
     height: 80px;
   }
   .main{
-    height: 700px;
+    
     /* background-image: linear-gradient(to right, #1E90FF, #1589FF, #1E90FF); */
     background-image: radial-gradient(circle,#1E90FF,  #1589FF);
     border-bottom-right-radius: 50% 300px;
