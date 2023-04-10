@@ -36,4 +36,8 @@
   body{
     font-family: 'Times New Roman', Times, serif;
   }
+.my-container {
+    background: linear-gradient(to top, #ffffff 40%, #2c3a57 40%);
+  }
+  
   
